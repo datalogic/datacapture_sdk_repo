@@ -3,7 +3,7 @@
   "component": {
     "group": "com.datalogic.aladdin",
     "module": "aladdin-sdk",
-    "version": "2.4.3",
+    "version": "2.4.5",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -33,13 +33,13 @@
       ],
       "files": [
         {
-          "name": "aladdin-sdk-2.4.3.aar",
-          "url": "aladdin-sdk-2.4.3.aar",
-          "size": 499804,
-          "sha512": "3ec2d8281acdcbd8faab55e3fc8074a12b7f9f290e021f2b71ac28364be5281aa728e36b80e80460db9f3e65385ec39ee1c8b766f22bcc3728158108a4680e48",
-          "sha256": "318024c879dcdb76a852399c0e0ffe55932da9a991dcd6377032c4ccb59411d2",
-          "sha1": "ccd4c158c007b6112506a567c79cd6afacbf50ec",
-          "md5": "24e6fb5e9ae3c117385628d0e0cd7a74"
+          "name": "aladdin-sdk-2.4.5.aar",
+          "url": "aladdin-sdk-2.4.5.aar",
+          "size": 503763,
+          "sha512": "abf1c02e0b6baed771f1c8a4cf77d8c03b6f5181d42358f1eb92c4d4d82fbef439f18b723b48d90cdac5bb24c122dbc53dbfb94783c7e754ba7fecc7160e67d6",
+          "sha256": "42780f4d013aafb10cdca95d89baf700b9a880a0419e25edadd43ba549677b61",
+          "sha1": "71807d6daccbe60bfcba0d2ab200161bda8bcdc6",
+          "md5": "b3d6bdc35bf08aed6556a4f2fc2c76ba"
         }
       ]
     },
@@ -146,13 +146,13 @@
       ],
       "files": [
         {
-          "name": "aladdin-sdk-2.4.3.aar",
-          "url": "aladdin-sdk-2.4.3.aar",
-          "size": 499804,
-          "sha512": "3ec2d8281acdcbd8faab55e3fc8074a12b7f9f290e021f2b71ac28364be5281aa728e36b80e80460db9f3e65385ec39ee1c8b766f22bcc3728158108a4680e48",
-          "sha256": "318024c879dcdb76a852399c0e0ffe55932da9a991dcd6377032c4ccb59411d2",
-          "sha1": "ccd4c158c007b6112506a567c79cd6afacbf50ec",
-          "md5": "24e6fb5e9ae3c117385628d0e0cd7a74"
+          "name": "aladdin-sdk-2.4.5.aar",
+          "url": "aladdin-sdk-2.4.5.aar",
+          "size": 503763,
+          "sha512": "abf1c02e0b6baed771f1c8a4cf77d8c03b6f5181d42358f1eb92c4d4d82fbef439f18b723b48d90cdac5bb24c122dbc53dbfb94783c7e754ba7fecc7160e67d6",
+          "sha256": "42780f4d013aafb10cdca95d89baf700b9a880a0419e25edadd43ba549677b61",
+          "sha1": "71807d6daccbe60bfcba0d2ab200161bda8bcdc6",
+          "md5": "b3d6bdc35bf08aed6556a4f2fc2c76ba"
         }
       ]
     },
@@ -166,13 +166,13 @@
       },
       "files": [
         {
-          "name": "aladdin-sdk-2.4.3-sources.jar",
-          "url": "aladdin-sdk-2.4.3-sources.jar",
-          "size": 148666,
-          "sha512": "18cefc7dcbce5715b93d2eeb48fb78dbc6ff52e13d80c4ae9ce8ae7801f594d86a02c85f1b54675777ac9be01a06d132a2598bf0fffb2a80a86b506a4f20adc7",
-          "sha256": "c4895bbdfee1f8b848ffed88abc2de7c5878edbad618b29e45076e395444cb1b",
-          "sha1": "52276e69e5b81332a2700d34f718bdc3f5d20244",
-          "md5": "2c5b24cbf7e8451c28e37b6fd31688e5"
+          "name": "aladdin-sdk-2.4.5-sources.jar",
+          "url": "aladdin-sdk-2.4.5-sources.jar",
+          "size": 150817,
+          "sha512": "6dc566a61db7a648f0c28b88ec8dda7c4cb5bdb1db7379202379f4ebaf1f05f48a31626f16e9a1a41e76a736c0b2de393279eb096072935a1666b047799b9fa5",
+          "sha256": "7545ac062d23969416feaaa557362ae05b9cbc63c5d574bdc8359a09791d55b8",
+          "sha1": "469f503ab37fc5793713fc8bdc476e03205a791f",
+          "md5": "670d0166f934c5f233c15ed8d30b4590"
         }
       ]
     }
