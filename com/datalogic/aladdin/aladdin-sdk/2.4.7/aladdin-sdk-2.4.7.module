@@ -1,0 +1,180 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.datalogic.aladdin",
+    "module": "aladdin-sdk",
+    "version": "2.4.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "aladdin-sdk-2.4.7.aar",
+          "url": "aladdin-sdk-2.4.7.aar",
+          "size": 508160,
+          "sha512": "b0f073329557a0397de527fc429f5fd21e2195d78b4389c1b8db8c57f294246483b629b44a3793bca4c51a7a48664ea369df0edb8f81e03d4c8ade2dd001e654",
+          "sha256": "95d94de48a2bc8c0b286d9bf2fc6dc13027f280276f67d8fdab1cfa643561f49",
+          "sha1": "e411e426d7d67851fb3ae4c69656e262f21d2fe4",
+          "md5": "88965654d847f8bd926107dc68aa6db7"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.13.1"
+          }
+        },
+        {
+          "group": "androidx.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.16.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-process",
+          "version": {
+            "requires": "2.8.7"
+          }
+        },
+        {
+          "group": "androidx.work",
+          "module": "work-runtime-ktx",
+          "version": {
+            "requires": "2.9.1"
+          }
+        },
+        {
+          "group": "com.github.mik3y",
+          "module": "usb-serial-for-android",
+          "version": {
+            "requires": "3.4.3"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-compress",
+          "version": {
+            "requires": "1.26.1"
+          }
+        },
+        {
+          "group": "uk.org.okapibarcode",
+          "module": "okapibarcode",
+          "version": {
+            "requires": "0.5.2"
+          }
+        },
+        {
+          "group": "com.caverock",
+          "module": "androidsvg",
+          "version": {
+            "requires": "1.4"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "aladdin-sdk-2.4.7.aar",
+          "url": "aladdin-sdk-2.4.7.aar",
+          "size": 508160,
+          "sha512": "b0f073329557a0397de527fc429f5fd21e2195d78b4389c1b8db8c57f294246483b629b44a3793bca4c51a7a48664ea369df0edb8f81e03d4c8ade2dd001e654",
+          "sha256": "95d94de48a2bc8c0b286d9bf2fc6dc13027f280276f67d8fdab1cfa643561f49",
+          "sha1": "e411e426d7d67851fb3ae4c69656e262f21d2fe4",
+          "md5": "88965654d847f8bd926107dc68aa6db7"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "aladdin-sdk-2.4.7-sources.jar",
+          "url": "aladdin-sdk-2.4.7-sources.jar",
+          "size": 152315,
+          "sha512": "1e391dd6ccd9d4a87258e9993e8473adadb2af614104093d84d5331168388f8e28435d6854d8c59652e68bc4460397ced6fc2e626583882cbbb1f9043354efe1",
+          "sha256": "4c2ed947e12be57d26c4f48bc38f7bf24386f3b167dff24dc2492ca7c05a0d87",
+          "sha1": "9944fe2233281939c4ca2ed275a5961e1aeb2cc9",
+          "md5": "e45668968467b515ebda1bd42ab94ffd"
+        }
+      ]
+    }
+  ]
+}
